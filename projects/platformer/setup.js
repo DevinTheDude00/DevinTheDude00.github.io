@@ -92,7 +92,7 @@ let animationDetails = {};
 
 var collectableList = {
   database: { image: "images/collectables/database.png" },
-  diamond: { image: "images/collectables/diamond-head.png" },
+  diamond: { image: "https://www.vecteezy.com/png/19617753-group-of-money-symbol" },
   grace: { image: "images/collectables/grace-head.png" },
   kennedi: { image: "images/collectables/kennedi-head.png" },
   max: { image: "images/collectables/max-head.png" },

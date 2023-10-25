@@ -11,7 +11,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(153, 151, 151);
+    background: rgb(128, 128, 128);
    margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -45,7 +45,7 @@ main {
     padding: 10px;
 }
 .sidebar-img {
-    width: 200px;
+    width: 100px;
 }
 .content {
     flex: 1;
@@ -83,7 +83,7 @@ h2, h3 {
 
 #portfolio a {
     text-decoration: none;
-    color: #929292;
+    color: #8d8d8d;
 }
          /* portfolio styles */
          .content h1 {
